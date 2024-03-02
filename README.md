@@ -35,3 +35,13 @@ Welcome to my GitHub! 👋 I'm Achint Tripathi, a passionate Computer Science En
     Aviation, Swimming, Physics, Geo-Politics
 
 Let's connect and collaborate on exciting projects!
+For any queries or suggestions, feel free to reach out on my Telegram Channel - https://t.me/+lDzyfbqNQLwyYzI1
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+**PROBLEM STATEMENTS ADDRESSED IN THIS PROJECT**
+
+1. FIND THE LIST OF UNQIUE AIRLINES IN WORLD
+2. FIND THE LIST OF UNIQUE AIRLINES IN INDIA
+3. LIST OF AIRLINES OPERATING WITH CODE SHARE
+4. LIST OF ACTIVE AIRLINES IN INDIA
